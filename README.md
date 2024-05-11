@@ -18,8 +18,20 @@ The feature set used in this project is as follows:
 
 ## Usage
 1. Clone the repository:
-
-
+```
+git clone https://github.com/HassanMahmoodKhan/Credit-Card-Customer-Segmentation-A-Clustering-Approach.git
+```
+2. Navigate to the project directory:
+```
+cd Credit-Card-Customer-Segmentation-A-Clustering-Approach
+```
+3. Install dependencies:
+```
+pip install -r requirements.txt
+```
+4. Explore the Google Colab notebook in the `notebooks/` directory for data preprocessing, EDA, and clustering analysis.
+5. Refer to the project figures and visuals in the `assets/` directory for additional information.
+   
 ## Acknowledgements
 zhyli. (2020). Prediction of Churning Credit Card Customers [Data set]. Zenodo. https://doi.org/10.5281/zenodo.4322342
 
