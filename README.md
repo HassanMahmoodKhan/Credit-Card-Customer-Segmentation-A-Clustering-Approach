@@ -1,4 +1,4 @@
-# Credit-Card-Customer-Segmentation-A-Clustering-Approach
+# Unveiling Hidden Patterns in Credit Card Usage: A Clustering Approach
 
 ## Overview
 This project aims to perform credit card customer segmentation using K-means clustering analysis on customer transaction data. By segmenting customers into  four distinct groups based on their spending behavior and demographics, financial institutions can tailor marketing strategies, improve customer satisfaction, and optimize business operations.
